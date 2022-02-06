@@ -126,3 +126,4 @@ pause
 Get-Funky $github
 Start-Sleep -Seconds 10  
 Start-Process "https://github.com/pankace"
+Start-Process "https://freaklab.org/" 
